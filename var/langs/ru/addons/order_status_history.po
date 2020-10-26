@@ -1,0 +1,37 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU"
+
+msgctxt "Addons::name::order_status_history"
+msgid "History of changes in orders statuses"
+msgstr "История изменений статусов заказов"
+
+msgctxt "Addons::description::order_status_history"
+msgid "Addon for viewing the history of changes in orders statuses"
+msgstr "Модуль для просмотра изменений статусов заказов"
+
+msgctxt "Languages::order_status_history"
+msgid "History of changes in orders statuses"
+msgstr "История изменений статусов заказов"
+
+msgctxt "Languages::order_status_history.order_id"
+msgid "Order ID"
+msgstr "ID заказа"
+
+msgctxt "Languages::order_status_history.old_status"
+msgid "Old status"
+msgstr "Старый статус"
+
+msgctxt "Languages::order_status_history.new_status"
+msgid "New status"
+msgstr "Новый статус"
+
+msgctxt "Languages::order_status_history.changed_by"
+msgid "Changed by"
+msgstr "Кем изменён"
+
+msgctxt "Languages::order_status_history.changed_at"
+msgid "Changed at"
+msgstr "Дата изменения"
